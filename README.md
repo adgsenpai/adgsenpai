@@ -11,6 +11,8 @@
 
 ### :zap: Github Stats
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adgsenpai&show_icons=true&theme=radical)
 
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=adgsenpai&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Ashlin's Top Languages">
