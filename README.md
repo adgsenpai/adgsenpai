@@ -15,7 +15,7 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adgsenpai&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=adgsenpai&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Ashlin's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adgsenpai&show_icons=true&locale=en&layout=compact&langs_count=100" width="37%" alt="Ashlin's Top Languages">
 
 ### Some info about me
 Ashlin Darius Govindasamy is currently doing his BSc Computer Science and Mathematics Degree at UNISA. Once completed with that he will go and get a degree in Honors Computer Science and study till masters level.
