@@ -89,7 +89,7 @@ https://adgstudios.co.za/
 
 ## Contact
 
-📧 adgrules.rsa@gmail.com  
+📧 adg@adgstudios.co.za
 📱 +27 60 522 4922  
 🔗 LinkedIn: https://www.linkedin.com/in/adgsenpai  
 🌐 Website: https://adgstudios.co.za/
